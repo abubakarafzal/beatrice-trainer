@@ -1,0 +1,4 @@
+*.lock
+work/*
+__pycache__
+outputs/
